@@ -1,0 +1,7 @@
+Failide arv:  3 
+
+Esimese faili pikkus:  324  sõna
+
+Teise faili pikkus:  265  sõna
+
+Kolmanda faili pikkus:  194  sõna
